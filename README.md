@@ -1,6 +1,6 @@
 ### Olá! <br> Sou João Cândido Messias.
 
-💻Técnico em Informática - IFFAR JC <br>
+💻Técnico em Informática - IFFAR-JC <br>
 📚 Sistemas de Informação - UFN
 
 ##
