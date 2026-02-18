@@ -4,8 +4,7 @@
 📚 Sistemas de Informação - UFN
 
 ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-candido-messias&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-candido-messias&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  <div style="display: inline_block"><br>
    <img align="center" alt="Joao-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
