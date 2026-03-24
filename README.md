@@ -6,7 +6,7 @@
 ##
  
  <div align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-candido-messias&layout=compact&langs_count=8&theme=radical&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao-candido-messias&layout=compact&langs_count=8&theme=vue-dark&hide=html,css"/>
  </div>
  
  <div style="display: inline_block"><br>
